@@ -1,0 +1,1 @@
+Seleziona un'immagine con querySelector() e imposta l'attributo alt con setAttribute(). Poi leggi il valore dell'attributo src con getAttribute() e mostralo in console. Infine controlla con hasAttribute() se l'immagine ha l'attributo title e, se presente, rimuovilo.
