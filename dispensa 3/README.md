@@ -1,0 +1,1 @@
+Seleziona un elemento con classe box e aggiungi le classi attivo e evidenziato con un'unica chiamata a classList.add(). Poi rimuovi solo evidenziato con classList.remove(). Infine usa classList.toggle() su attivo due volte e verifica che alla fine la classe sia ancora presente.
