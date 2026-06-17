@@ -1,0 +1,1 @@
+- Seleziona un elemento con id box e assegna il testo Ciao mondo con textContent. Poi sostituisci il contenuto di un secondo elemento con id contenuto con un titolo e un paragrafo usando innerHTML. Infine cambia il colore del testo del primo elemento con style.
