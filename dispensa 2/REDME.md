@@ -1,0 +1,1 @@
+Crea un elemento p con createElement(), assegnagli un testo e aggiungilo in fondo a un elemento con classe contenitore usando appendChild(). Poi crea un secondo paragrafo e inseriscilo prima del primo con insertBefore(). Infine rimuovi il primo paragrafo con remove().

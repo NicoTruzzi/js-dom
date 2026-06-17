@@ -1,0 +1,11 @@
+console.log("script caricato");
+const p1 = document.createElement("p");
+const contenitore = document.querySelector(".contenitore");
+p1.textContent = "paragrafo 1";
+p1.style.color = "green";
+contenitore.appendChild(p1);
+const p2 = document.createElement("p");
+p2.textContent = "paragrafo 2";
+contenitore.insertBefore(p2, p1);
+p2.style.color = "red";
+p1.remove();
